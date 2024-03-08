@@ -119,82 +119,80 @@ preguntas = [
     "c"
 ),
     (
-    "¿?",
+    "¿Qué significan las siglas “ZIF”?",
     [
-        "a) ",
-        "b) ",
-        "c) ",
-        "d) ",
+        "a) Zero Inertial Force",
+        "b)  Zero Interference Factor",
+        "c) Zero Impact Frequency",
+        "d) Zero Insertion Force",
     ],
-    ""
+    "d"
 ),
     (
-    "¿?",
+    "¿Los zócalos ZIF perminten instalar el procesador sin hacer fuerza sobre el mismo?",
     [
-        "a) ",
-        "b) ",
-        "c) ",
-        "d) ",
+        "v) Verdadero",
+        "f) Falso",
+
     ],
-    ""
+    "v"
 ),
     (
-    "¿?",
+    "¿Los zócalos ZIF perminten instalar el procesador haciendo presión sobre el mismo para que quede perfectamente anclado?",
     [
-        "a) ",
-        "b) ",
-        "c) ",
-        "d) ",
+        "v) Verdadero",
+        "f) Falso",
+
     ],
-    ""
+    "f"
 ),
     (
-    "¿?",
+    "¿Cual de las siguientes afirmaciones es correcta?",
     [
-        "a) ",
-        "b) ",
-        "c) ",
-        "d) ",
+        "a) Mantener los componentes organizados y limpios mejora la eficiencia.",
+        "b) La limpieza es importante solo en un lugar trabajo.",
+        "c) El desorden no afecta la productividad.",
+        "d) No es necesario limpiar regularmente los equipos informáticos.",
     ],
-    ""
+    "a"
 ),
     (
-    "¿?",
+    "¿Cuál es la recomendación para limpiar equipos del cliente que llegan con polvo?",
     [
-        "a) ",
-        "b) ",
-        "c) ",
-        "d) ",
+        "a) Limpiarlos en cualquier lugar, sin importar la ventilación.",
+        "b) Aspirar o limpiarlos fuera de la instalación, en un sitio ventilado.",
+        "c) Dejar el polvo tal como está.",
+        "d) Utilizar los productos adecuados para eliminar el polvo.",
     ],
-    ""
+    "b"
 ),
     (
-    "¿?",
+    "¿Cuál de las siguientes afirmaciones es correcta en relación con las herramientas y componentes en un entorno de trabajo?",
     [
-        "a) ",
-        "b) ",
-        "c) ",
-        "d) ",
+        "a) El etiquetado no es relevante para las herramientas.",
+        "b) Las herramientas y componentes deben estar donde el trabajador desee.",
+        "c) Es importante mantener las herramientas y componentes organizados y etiquetados.",
+        "d) No es necesario etiquetar las herramientas y componentes si los tienes perfectamente organizados",
     ],
-    ""
+    "c"
 ),
     (
-    "¿?",
+    "¿Cuál de las siguientes afirmaciones es correcta en relación con la seguridad en el lugar de trabajo?",
     [
-        "a) ",
-        "b) ",
-        "c) ",
-        "d) ",
+        "a)  Bloquear las salidas de incendio es aceptable en situaciones de emergencia.",
+        "b)  Tapar los extintores no afecta la seguridad contra incendios.",
+        "c)  No es obligatorio prestar atención a las salidas de incendio.",
+        "d)  No bloquear las zonas de paso con material es importante para la seguridad.",
     ],
-    ""
+    "d"
 ),
     (
-    "¿?",
+    "¿Cual de las siguentes afirmaciones no es importante en un puesto de montaje?",
     [
-        "a) ",
-        "b) ",
-        "c) ",
-        "d) ",
+        "a) No bloquear las salidas de incendio",
+        "b) No bloquear las zonas de paso con material",
+        "c) No tapar los extintores u otro sistema contraincendios.",
+        "d) Todas las anteriores se consideran importantes",
     ],
     ""
 ),
